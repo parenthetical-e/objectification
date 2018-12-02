@@ -1,5 +1,7 @@
-# Makefiles
+# objectification
+Experiments w/ [objectify](https://github.com/parenthetical-e/objectify)
 
+# Makefiles
 If the intial images are present in `stim/` running `make all` will recreate all simulations and analyses.
 
 **Note**
